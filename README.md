@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 Hi, I’m Muhammad, a full stack developer.</div>  
+### <div align="center">👋 Hi, I’m Muhammad, a Full Stack developer.</div>  
   
 
 - 🔭 I’m currently working on Telegram CLone  
@@ -64,14 +64,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
-<br/>  
-
-
-## Github Stats  
-<p align="left">
-  <a href="https://github.com/msuvonov?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
