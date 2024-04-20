@@ -12,7 +12,7 @@
 - 👀 I am interested in web development, mobile application development, and backend development.  
   
 
-- 🌱 Now I’m studying algorithms and artificial intelligence.  
+- 🌱 Now I’m studying algorithms and AI.  
   
 
 - 📫 How to contact me: you can contact me by [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](https://linkedin.com/in/umidjon-tukhtaev-063a11231)
