@@ -6,19 +6,15 @@
 ### <div align="center">👋 Hi, I’m Muhammad, a Full Stack developer.</div>  
   
 
-- 🔭 I’m currently working on Telegram CLone  
+- 🔭 I'm currently working on a portfolio project. 
   
-
 - 👀 I am interested in web development, mobile application development, and backend development.  
-  
 
 - 🌱 Now I’m studying algorithms and AI.  
   
-
 - 📫 How to contact me: you can contact me by [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](https://linkedin.com/in/umidjon-tukhtaev-063a11231)
 
-- 😄 Pronouns: He/him  
-  
+- 😄 Pronouns: He/him.
 
 - ⚡ Interesting fact: in my free time I develop programming skills.
 
