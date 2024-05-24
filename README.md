@@ -31,7 +31,7 @@
  <a href="https://t.me/msuvonov" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="musuvonov"/>
  </a>
-<a href="https://hashnode.com/@https://hashnode.com/@MSuvonov11" target="_blank">
+<a href="https://hashnode.com/@MSuvonov11" target="_blank">
   <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Msuvonov11" />
 </a>
  <a href="https://twitter.com/Msuvonov11" target="_blank">
